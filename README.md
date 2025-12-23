@@ -1,0 +1,7 @@
+Included:
+AdaBoost Classifier
+RandomForest Classifier
+Bagging Classifier
+ExtraTrees Classifier
+GradientBoosting Classifier
+DecisionTree Classifier
